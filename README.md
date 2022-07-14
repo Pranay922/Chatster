@@ -14,3 +14,17 @@
 ## Starting the server 
 - Open terminal and Run `npm start` to start the server.
 - Open http://localhost:3000 to view it in the browser.
+
+## Home Page
+<img src="./pictures/p1.png" width="800"> <br>
+
+## Chat Section
+<img src="./pictures/p2.png" width="800"> <br>
+<img src="./pictures/p3.png" width="800"> <br>
+
+## Live Location 
+<img src="./pictures/p4.png" width="800"> <br>
+## Online Users Section
+<img src="./pictures/p5.png" width="800"> <br>
+<img src="./pictures/p6.png" width="800"> <br>
+
