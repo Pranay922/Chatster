@@ -1,8 +1,10 @@
 # Chatster
-**This real time chat application enables you for group as well as personalised chats in separate channels and live location sharing**
+**This real time chat application enables you for group as well as personalised chats in separate channels and live location sharing using HTML5 Geolocation API over Google Map**
 ## Dependencies used
    * [Express](http://expressjs.com/)
    * [Socket.IO](https://socket.io/docs/v4/)
+   * [Moustache.js](https://www.npmjs.com/package/mustache)
+   * [qs.js](https://www.npmjs.com/package/qs)
    * [bad-words](https://www.npmjs.com/package/bad-words)
 
 ## Installation
