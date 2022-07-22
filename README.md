@@ -4,7 +4,7 @@
    * [Express](http://expressjs.com/)
    * [Socket.IO](https://socket.io/docs/v4/)
    * [Moustache.js](https://www.npmjs.com/package/mustache)
-   * [qs.js](https://www.npmjs.com/package/qs)
+   * [moment.js](https://momentjs.com/docs/#/parsing/)
    * [bad-words](https://www.npmjs.com/package/bad-words)
 
 ## Installation
